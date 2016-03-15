@@ -28,6 +28,7 @@
 		271FCAB01C98062F00DDC4C5 /* main.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		271FCAB11C98062F00DDC4C5 /* View.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = View.c; sourceTree = "<group>"; };
 		271FCAB21C98062F00DDC4C5 /* View.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = View.h; sourceTree = "<group>"; };
+		271FCAB51C980AA300DDC4C5 /* demoP5CIUT1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = demoP5CIUT1.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +63,7 @@
 			children = (
 				271FCAB01C98062F00DDC4C5 /* main.c */,
 				271FCAB11C98062F00DDC4C5 /* View.c */,
+				271FCAB51C980AA300DDC4C5 /* demoP5CIUT1.gif */,
 				271FCAB21C98062F00DDC4C5 /* View.h */,
 			);
 			path = RotatingSphere;
